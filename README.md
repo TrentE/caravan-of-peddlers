@@ -1,5 +1,15 @@
-Finnigan Fernkeep
-======
+# The Live & Travels of Finnigan Fernkeep
+
+## Table of Contents
+- [Finnigan Fernkeep](#finnigan)
+    * [Physical](#description)
+    * [Mechanical](#stats)
+- [The Family](#family)
+    * [Antony(Father)](#antony-fernkeep)
+    * [Hazel(Mother)](#hazel-fernkeep)
+
+## Finnigan
+### Description
 | Finnigan | Fernkeep |
 |:-|:-|
 |Height| 3' 1" (_94cm_)|
@@ -8,6 +18,9 @@ Finnigan Fernkeep
 |Eyes| Vibrant "Meadow" Green|
 |Clothes | Giant-esque. Dressed in small furs and leathers. Mildly exposed chest. Green-Blue paint in a symbol, partially covered. |
 |Facial Features | Round face, normally smiling. Peach fuzz. |
+
+### Stats
+WIP
 
  
 
