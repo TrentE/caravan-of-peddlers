@@ -1,23 +1,37 @@
-# The Live & Travels of Finnigan Fernkeep
+# The Life & Travels of Finnigan Fernkeep
 
 ## Table of Contents
 - [Finnigan Fernkeep](#finnigan)
     * [Physical](#description)
     * [Mechanical](#stats)
+    * [Story](#background)
 - [The Family](#family)
-    * [Antony(Father)](#antony-fernkeep)
-    * [Hazel(Mother)](#hazel-fernkeep)
+    * [Antony (Father)](#antony-fernkeep)
+    * [Hazel (Mother)](#hazel-fernkeep)
+    * [Rosie](#rosie-tosswhistle)
+    * [Oswalt](#oswalt-fernkeep)
+    * [Violet](#violet-fernkeep)
+    * [Quill](#quill-fernkeep)
+    * [Lilly](#lilly-fernkeep)
+    * [Tilly](#tilly-fernkeep)
+- [The Caravan Family](#caravan-workers)
+    * [Alberich - Drover](#alberich-dawnhammer)
+    * [Silifry - Tender](#silifery-evercrown)
+    * [Gimble - Trader](#gimble-nackle)
+    * [Radovhas - Repairman](#radovhas)
+    * [Rain - Hunter/Forager](#distant-rain-cloud)
 
 ## Finnigan
 ### Description
 | Finnigan | Fernkeep |
 |:-|:-|
+|Age | 47 |
 |Height| 3' 1" (_94cm_)|
 |Weight| 41.7lbs (_3 stones_)|
-|Hair| Medium length, dark brown, with a shock of white down the left side.|
+|Hair| Medium length, dark brown, with a shock of white down the left side. Typically in a bit of a mussed fashion.|
 |Eyes| Vibrant "Meadow" Green|
 |Clothes | Giant-esque. Dressed in small furs and leathers. Mildly exposed chest. Green-Blue paint in a symbol, partially covered. |
-|Facial Features | Round face, normally smiling. Peach fuzz. |
+|Facial Features | Round face, normally smiling, with small dimples at the edge. Peach fuzz. |
 
 ### Stats
 WIP
@@ -25,7 +39,6 @@ WIP
  
 
 ## Family
----
 ### Antony Fernkeep
 >Name: Antony Fernkeep  
 Role: Father  
@@ -83,7 +96,6 @@ Description:
 Information:  
 
 ## Caravan Workers:
----
 ### Alberich Dawnhammer
 >**Name:** Alberich Dawnhammer  
 **Nickname(s):** "Al"  
