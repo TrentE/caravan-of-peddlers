@@ -37,7 +37,7 @@
 WIP
 
 ### Background
-Finnigan Fernkeep was born to Antony and Hazel Fernkeep in the year (current year minus 47 years), within the hills of "The Grove", just south of Port Hval. Their third of seven children, he was conceived during the celebration of their Golden Wedding Anniversary (50th). The Fernkeeps are, and have been humble farmers going back at least 6 generations.  The family seemed to hold a knack for such things, often being labeled as "greenthumbs" within The Grove community.  Their small farm held some prominence in The Grove, taking up several acres along the forest's edge.  The primary trade of the Fernkeeps is in barley, fruits, and mushrooms grown just inside the forest itself. Within the past two generations or so, they even began to pick up livestock.  It wasn't nearly as large a part of their farm, but they were able to afford a half dozen dairy cows, some pigs, chickens, and a couple of work horses from Port Hval. Most goods stay within The Grove, but those that are in excess, orin high demand will be traded off to Port Hval.
+Finnigan Fernkeep was born to Antony and Hazel Fernkeep forty-seven seasons ago, within the hills of "The Grove", just south of Port Hval. Their third of seven children, he was conceived during the celebration of their Golden Wedding Anniversary (50th). The Fernkeeps are, and have been humble farmers going back at least 6 generations.  The family seemed to hold a knack for such things, often being labeled as "greenthumbs" within The Grove community.  Their small farm held some prominence in The Grove, taking up several acres along the forest's edge.  The primary trade of the Fernkeeps is in barley, fruits, and mushrooms grown just inside the forest itself. Within the past two generations or so, they even began to pick up livestock.  It wasn't nearly as large a part of their farm, but they were able to afford a half dozen dairy cows, some pigs, chickens, and a couple of work horses from Port Hval. Most goods stay within The Grove, but those that are in excess, orin high demand will be traded off to Port Hval.
 
 While The Grove, made up of mostly halflings with a small spattering of humans, is a community-driven society the Fernkeeps are well known and respected members of the community.  They hold no particular power, though they do provide the town with most of it's fresh fruits and farm goods. They've been standing members of the community for over one hundred years.  Within the next few, Hazel and Antony will even be able to celebrate their one hundredth year together!
 
@@ -45,7 +45,23 @@ The Fernkeeps natural prowess for tending to plants and animals stems back to th
 
 Antony and Hazel, through lineages probably mixed somewhere in the past few thousand years, both hold the power of "naturism". Now-a-days, they're referred to colloquially as "naturalists" or "greenthumbs", and occasionally "beast talker". They did their best to pass down their teachings, and their appreciation for the world around them. Some of their children learned the craft, specializing in one area or another. Some had no interest and cast the craft aside, attempting to live a normal life. No ill-will was held for this, though heads were hung in silent disappointment. 
 
-Finnigan was one such child who took to and appreciated the craft.  Curious as he was, he dabbled in each aspect.  While his older sister, Rosie, took to curative measures and mending, she was nearly twenty at the time of his birth. They got on well, but were too far apart in age to truly learn from one another.  Oswalt, the second oldest, and his older brother never took to the craft.  He was an impatient child, and would grow to be still an impatient man.  He attempted on multiple occasions, but successive attempts and repeated failures caused him to lash out in frustration. Though not immediately, Oswalt was the first to leave The Grove in his early twenties. 
+Finnigan was one such child who took to and appreciated the craft.  Curious as he was, he dabbled in each aspect.  While his older sister, Rosie, took to curative measures and mending, she was nearly twenty at the time of his birth. They got on well, but were too far apart in age to truly learn from one another.  Oswalt, the second oldest, and his older brother never took to the craft.  He was an impatient child, and would grow to be still an impatient man.  He attempted on multiple occasions, but successive attempts and repeated failures caused him to lash out in frustration. Though not immediately, Oswalt was the first of the Fernkeep children to leave The Grove in his early twenties. 
+
+Much was learned in Finnigan's early life.  Tending to crops and animals was only part of the day to day. Hazel, being a well known "Remedy Woman", attempted to instill the importance of curative naturism into each of her children.  Rosie and Finnigan were the only ones who took to it naturally. The others had their dabbling, but could not compete when it came to tending to wounds. While known first, curative naturism was not Finnigan's greatest accomplishment, though it did play a large part.  Early on, a large portion of Finnigan's job, on the farm, was to look after the cows and chickens. He loved them all dearly, naming each one, giving special attention to them at feeding times and for cleanings. He was able to bond with these animals as if they were his friends, and truly they were.  Each individual chicken or cow had it's own personality to Finn.  At least, he could determine what the personality was and had the innate sense as to their levels of distress and discomfort.  There was an incident, around when Finn was in his late teens, where a trapper set a snare too closely to the Fernkeep's property.  Daisy, one of the dairy cows, wandered while grazing and happened to entrap herself within the snare.  While out in the field, the occasional moo, or snort is common, and often overlooked as part of the background noise.  Finnigan however, heard through the normal moos and snorts to what sounded like a deep, gutteral, cry for help. It sounded, almost human, but there was a hint of bass to the voice that humans didn't possess.  Curious as the little halfling is, he began to investigate only to find the sound emitting from Daisy. He was unsure as to how, but her cries of pain and assistance seemed to resonate with him.  His calming and reassuring words seemed to do just that. After a two generation gap, it would appear as if the Fernkeeps obtained a new beast talker. Antony and Hazel gleefully reveled in this discovery and ensured that a small feast would be held in The Grove in Finn's honor. 
+
+Life after that became quite a bit easier on the farm.  The animals began to trust and form true bonds with the Fernkeeps. The local forest wildlife were placated with goodberries, leaving the Fernkeep's crops and orchard to itself.  The life-giving nature of the ground was kept healthy, and the crop produciton soared.  It was now, more than ever, that the Fernkeep's trade relations came into play with Port Hval.  Violet stepped up to the plate for the family and fostered and ameniable agreement between Port Hval and The Grove. 
+
+As Finnigan approached 30, his curiousity began to grow beyong the confines of The Grove.  He visted his brother, Oswalt, and sister, Rosie, in Port Hval during trade runs, often times spending up to a week before making the trek back. The more he went, the longer he would stay.  The people were fascinating. Sure he had seen a human before, and other halflings of course, but he became slowly enamored with the gnomes, the dwarves, the goliaths, the cornucopia of life that exsisted outside of The Grove. The curiosity soon grew into a wanderlust. He wanted to know what else was out there that he hadn't come across. He ventured just north and west of Port Hval, but sadly he only came across small encampents, and those who were either headed to or just leaving from Port Hval anyway. 
+
+After a year or so, Finn began to document his encounters, truly study the people around him.  Detailed notes about who he spoke with, what they sounded like, looked like, even smelled like. Some people weren't so fond of being studied while trying to get a drink in the local tavern. Finn's desire didn't lessen, but he did respect their wishes not to openly study them.  Instead, he would draw a bit of the talent given to him through naturalism, and inspect from afar as an unsuspecting spider, or a small field mouse. In fact, that's even how he met Luch (pronounced Lach), a field mouse! Finn was always careful when changing himself in town, making sure to hide the fact from those around him, ducking into a small alley or a closed warehouse.  
+
+The only person, or animal rather, to ever catch him was Luch.  Finn explained how he could shrink himself, become a fellow mouse, and use his even smaller presence to study those around him.  Luch wasn't the smartest field mouse out there, but his curiousity into the "tiny man" who could become one of him intrigued him.  Luch, is older now, and honestly should have expired.  You'd never know it though, as he's still as young, spry, and seemingly well as any other young field mouse!  Finn often wonders by what grace Luch is able to keep himself alive, but always chalks it up to the ground lending it's curative magics to Luch for all the good he did in a past life. At least that's what he likes to think anyways. To this day, Luch can be found alongside Finn's shoulder, or tucked away in a hideaway pocket, keeping warm. 
+
+Over the years, Finnigan began to spend more and more time in Port Hval. The farm was well enough off now and running itself that it didn't matter too much.  But of course, he woudl return every two weeks at least for the Fernkeep Family Dinner.  It was a tradition after all!  He knew someday, deep down, that he would have to break it, but while he could he would continue on with it. As he lingered in Port Hval, his study became even more methodical, and his tactics a bit more brash.  A new face who would come through town would often find themselves in a chat with Finn, asking about their lineage, their clan stories, anything that he could get his mind to set in on.  Often times the folks would oblige and give him an answer in return for a drink or hot meal.  Some would go above and beyond however.  One woman, or goliath really, was especially influential. 
+
+Her name was Thalia "Strongwill" Olavay.  She was a gargantuan woman, standing well over 7 feet tall.  Long, red hair flowed from her scalp, tangling itself with the blues and greens of her tattoos. Ice blue eyes seemed to pierce the soul of all those who caught her gaze. A charred musk eminated from her; nothing offensive, but distinct.  She spoke low, and often not at all, her voice nearly a whisper.  She would often be found near the docks or within the seafaring taverns of Port Hval.  Always looking, always searching. Though she never did reveal what.  She stayed for months, and allowed Finnigan to "interview" her on occasion.  Over the course of the time, she began to loosen up, fearing nothing from the 3 foot tall halfling boy who stood barely to her shin.  They shared stories, some of their lineage, and some laughs. She even indulged Finn, and gave him encouragement in attempting to learn her language. Much of Finnigan's personality was shaped by Thalia.  He became more strongwilled himself, asserting himself into situations, but always with a smile. Finnigan told Thalia of his family and his farm back home, less than a day's ride south. He even revealed, for the first time his ability to communicate with animals.  Unbelieving of the claim, Finnigan showed off his talent with Luch. From then on, she referred to Finn only as "AnimalSpeaker". He felt confused, yet honored. Somehow accepted into a world that would never be his own. To this day, he wears the runes of "AnimalSpeaker" in giant across his chest.  Sadly, Thalia grew weary of awaiting the ship that never seemed to come, and so she left herself.  A note was left, encouraging Finn to explore the world more and remove himself from his "chains".  A small leather pouch, made of elk, and a fur-lined vest was left.  Finn often times wears the vest and furs, smelling them softly to be reminded of the ashen goliath from the North. 
+
+A few more years would pass in Port Hval, breaking a couple of times when his third, fourth, fifth and sixth siblings were born. Through it all though, his wanderlust continued to grow. He tried out, and was often rejected from trading caravans due to his size.  Most believed him to be useless. That is, until Erwick Steadyhand, a halfling himself brought trade through Port Hval. Finn still had to prove himself, but he had finally been accepted.  His stomach sank, and he began to get nervous. But there was no backing out. He could do this. He *would* do this!  His journal packed, his leathers on, and his pet mouse aboard his shoulder, Finn would set out with this motley crew. Some, he began notes on before they even set out. Some, would yet to be seen. And so continues the life and adventures of Finnigan "AnimalSpeaker" Fernkeep.
  
 
 ## Family
@@ -53,6 +69,7 @@ Finnigan was one such child who took to and appreciated the craft.  Curious as h
 >Name: Antony Fernkeep  
 Role: Father  
 Age: 128  
+Job: Fatherto 7, Barley Farmer, Mushroom Farmer, Fruit Farmer, Chicken Farmer, Dairy Farmer  
 Description:  
 Information:  
 
@@ -60,6 +77,7 @@ Information:
 >Name: Hazel Fernkeep  
 Role: Mother  
 Age: 123  
+Job: Mother to 7, Remedy Woman, Farmer, Cook  
 Description:  
 Information:  
 
@@ -67,6 +85,7 @@ Information:
 >Name: Rosie Tosswhistle  
 Role: Oldest sibling, older sister  
 Age: 65  
+Job: Mender, Tailor, Clothes Washer  
 Description:  
 Information:  
 
@@ -74,6 +93,7 @@ Information:
 >Name: Oswalt Fernkeep  
 Role: 2nd oldest sibling, older brother  
 Age: 56  
+Job: Whale Butcher  
 Description:  
 Information:  
 
@@ -81,6 +101,7 @@ Information:
 >Name: Violet Fernkeep  
 Role: 4th oldest sibling, younger sister  
 Age: 32  
+Job: Trade negotiations "manager" for the Fernkeep farm  
 Description:  
 Information:  
 
@@ -88,6 +109,7 @@ Information:
 >Name: Quill Fernkeep  
 Role: 5th oldest sibling, younger brother  
 Age: 23  
+Job: Farmhand  
 Description:  
 Information:  
 
@@ -95,6 +117,7 @@ Information:
 >Name: Lilly Fernkeep  
 Role: Youngest sibling, younger sister, twin  
 Age: 12  
+Job: Child, helps around the house/farm  
 Description:  
 Information:  
 
@@ -102,6 +125,7 @@ Information:
 >Name: Tilly Fernkeep  
 Role: Youngest sibling, younger sister, twin  
 Age: 12  
+Job: Child, helps around the house/farm  
 Description:  
 Information:  
 
