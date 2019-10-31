@@ -97,7 +97,7 @@ Information:
 
 ## Caravan Workers:
 ### Alberich Dawnhammer
-[Alberic Dawnhammer][images/al.jpg]
+![Alberic Dawnhammer][images/al.jpg]
 >**Name:** Alberich Dawnhammer  
 **Nickname(s):** "Al"  
 **Race:** Dwarf (Hill)  
@@ -108,7 +108,7 @@ Information:
 **Relationship**: Al enjoys the company of Finn, though mostly for the amusement of having a fellow smaller than he is within this caravan.  Finn gained Al's trust early on within the caravan route by speaking with the horses once they were spooked. Al couldn't calm them, and their full-out sprint nearly caused a collision with another wagon. Though Finn never spoke a word to the animals (he used telepathy), Al believes that Finn has as strong of a connection to the animals as he does himself.  
 
 ### Silifrey Evercrown
-[Silifrey Evercrown][images/frey.jpg]
+![Silifrey Evercrown][images/frey.jpg]
 >**Name:** Silifrey Evercrown  
 **Nickname(s):** "Sil" or "Frey"  
 **Race:** Human  
@@ -119,7 +119,7 @@ Information:
 **Relationship:** As is his nature, Finn greeting Frey with open arms and a smile.  Rather odd, to Frey, but she allowed it to happen out of politeness.  Over time, she grew to see Finn as a surrogate son of sorts. She's still quiet, and reserved, but she has gone out of her way to show Finn some of the tricks of her trade. Bringing him in to tend to horses and calm them when they do require medical attention. She hasn't revealed why she's taken to him, though the resemblance, with brown hair, green eyes, and freckles, is a large part of it.  
 
 ### Gimble Nackle
-[Gimble Nackle][images/gimble.jpg]
+![Gimble Nackle][images/gimble.jpg]
 >**Name:** Gimble Nackle  
 **Nickname(s):** "Gim"  
 **Race:** Gnome (Rock)  
@@ -130,7 +130,7 @@ Information:
 **Relationship:** Finn is unsure of Gimble. Or, "That's Mr. Gimble to you, flat-foot", as he would say. Gimble is still a mystery to Finn, and their paths don't cross often.  Gimble's got his job, and Finn's got his. The aggressive nature and arrogant tone of Gimble tends to keep him to his own business.  
 
 ### Radovhas
-[Radovhas][images/vhas.jpg]
+![Radovhas][images/vhas.jpg]
 >**Name:** Radovhas  
 **Nickname(s):** "Rad" or "Vhas"  
 **Race:** Centaur  
@@ -141,7 +141,7 @@ Information:
 **Relationship:** Finn and Vhas are friendly enough.  Though there's no true relationship there.  Finn believes Vhas is more interesting simply because of **what** he is and where he comes from. He's attempted to extract information and write it down several times, but Vhas never budges on the subject of his clan. Mostly though, Finn just attempts to stay out of Vhas' way, so he isn't stepped on.  They do get an occasional laugh, smirk, or smile though if Finn or Vhas speak a curse or smart-ass remark in Sylvan. Not many others, if any, on the caravan understand Sylvan.  
 
 ### Distant Rain Cloud
-[Rain][images/rain.jpg]
+![Rain][images/rain.jpg]
 >**Name:** Distant Rain Cloud  
 **Nickname(s):** "Rain"  
 **Race:** Tabaxi  
