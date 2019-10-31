@@ -23,19 +23,29 @@
 
 ## Finnigan
 ### Description
-| Finnigan | Fernkeep |
-|:-|:-|
-|Age | 47 |
-|Height| 3' 1" (_94cm_)|
-|Weight| 41.7lbs (_3 stones_)|
-|Hair| Medium length, dark brown, with a shock of white down the left side. Typically in a bit of a mussed fashion.|
-|Eyes| Vibrant "Meadow" Green|
-|Clothes | Giant-esque. Dressed in small furs and leathers. Mildly exposed chest. Green-Blue paint in a symbol, partially covered. |
-|Facial Features | Round face, normally smiling, with small dimples at the edge. Peach fuzz. |
+| Feature    | Description                                                                                                               |
+| :-         | :-                                                                                                                        |
+| Age        | 47                                                                                                                        |
+| Height     | 3' 1" (_94cm_)                                                                                                            |
+| Weight     | 41.7lbs (_3 stones_)                                                                                                      |
+| Hair       | Medium length, dark brown, with a shock of white down the left side. Typically in a bit of a mussed fashion.              |
+| Eyes       | Vibrant "Meadow" Green                                                                                                    |
+| Clothes    | Giant-esque. Dressed in small furs and leathers. Mildly exposed chest. Green-Blue paint in a symbol, partially covered.   |
+| Face       | Round face, normally smiling, with small dimples at the edge. Peach fuzz.                                                 |
 
 ### Stats
 WIP
 
+### Background
+Finnigan Fernkeep was born to Antony and Hazel Fernkeep in the year (current year minus 47 years), within the hills of "The Grove", just south of Port Hval. Their third of seven children, he was conceived during the celebration of their Golden Wedding Anniversary (50th). The Fernkeeps are, and have been humble farmers going back at least 6 generations.  The family seemed to hold a knack for such things, often being labeled as "greenthumbs" within The Grove community.  Their small farm held some prominence in The Grove, taking up several acres along the forest's edge.  The primary trade of the Fernkeeps is in barley, fruits, and mushrooms grown just inside the forest itself. Within the past two generations or so, they even began to pick up livestock.  It wasn't nearly as large a part of their farm, but they were able to afford a half dozen dairy cows, some pigs, chickens, and a couple of work horses from Port Hval. Most goods stay within The Grove, but those that are in excess, orin high demand will be traded off to Port Hval.
+
+While The Grove, made up of mostly halflings with a small spattering of humans, is a community-driven society the Fernkeeps are well known and respected members of the community.  They hold no particular power, though they do provide the town with most of it's fresh fruits and farm goods. They've been standing members of the community for over one hundred years.  Within the next few, Hazel and Antony will even be able to celebrate their one hundredth year together!
+
+The Fernkeeps natural prowess for tending to plants and animals stems back to the ancient days, after the dust from the gods had settled. Rather than let loose their primal urges to raid, pilfer, and loot others for survival the Fernkeeps, then called Coimeádaí Fhearna, decided to take to the path of 'naturism'. The philosophy that one can care enough, and put enough work into the ground, the plants, and the ecosystem around you that eventually it would reciprocate that care.  The craft grew with their lineage, many learning to tend crops better than the last, learning how to make a request to the ground, and their pleas be answered.  Some, though rare, were rumored to be able to communicate with the animals around them.  Friendships and beneficial relationships began to form. As the years went on, the craft was maintained, though never grown out of proportion.  There had to be a balance of what was requested. Request too much, and nature would strike back with thunderous anger. 
+
+Antony and Hazel, through lineages probably mixed somewhere in the past few thousand years, both hold the power of "naturism". Now-a-days, they're referred to colloquially as "naturalists" or "greenthumbs", and occasionally "beast talker". They did their best to pass down their teachings, and their appreciation for the world around them. Some of their children learned the craft, specializing in one area or another. Some had no interest and cast the craft aside, attempting to live a normal life. No ill-will was held for this, though heads were hung in silent disappointment. 
+
+Finnigan was one such child who took to and appreciated the craft.  Curious as he was, he dabbled in each aspect.  While his older sister, Rosie, took to curative measures and mending, she was nearly twenty at the time of his birth. They got on well, but were too far apart in age to truly learn from one another.  Oswalt, the second oldest, and his older brother never took to the craft.  He was an impatient child, and would grow to be still an impatient man.  He attempted on multiple occasions, but successive attempts and repeated failures caused him to lash out in frustration. Though not immediately, Oswalt was the first to leave The Grove in his early twenties. 
  
 
 ## Family
