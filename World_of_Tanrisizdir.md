@@ -1,10 +1,6 @@
 ## Table of Contents
 <details>
-<summary>
-
-[Dwarves](#dwarves)
-
-</summary>
+<summary><a name="#dwarves">Dwarves</a></summary>
 
 - [Deep Lake](#deep-lake---loch-domhainn)
     * [Social](#social)
@@ -15,11 +11,7 @@
 </details>
 
 <details>
-<summary>
-
-- [Elves](#elves)
-
-</summary>
+<summary><a name="#elves">Elves</a></summary>
 
 - [Schwarzwald](#schwarzwald---the-black-forest)
     * [Social](#social-1)
@@ -30,11 +22,7 @@
 </details>
 
 <details>
-<summary>
-
-[Mixed](#mixed)
-
-</summary>
+<summary><a name="#mixed">Mixed</a></summary>
 
 - [Port Hval](#port-hval)
     * [Social](#social-2)
@@ -45,10 +33,7 @@
 </details>
 
 <details>
-<summary>
-
-[Hobgoblin](#hobgoblin)
-</summary>
+<summary><a name="#hobgoblins">Hobgoblins</a></summary>
 
 - [Egchiin-ger](#egchiin-ger)
     * [Social](#social-3)
@@ -59,10 +44,7 @@
 </details>
 
 <details>
-<summary>
-
-[Humans](#humans)
-</summary>
+<summary><a name="#humans">Humans</a></summary>
 
 - [Farreach](#farreach-mixed-mostly-human)
     * [Social](#social-4)
