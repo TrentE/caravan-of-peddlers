@@ -1,45 +1,76 @@
 ## Table of Contents
 <details>
-<summary>Dwarves</summary>
+<summary>
 
-- [Dwarves](#dwarves)
-    * [Deep Lake](#deep-lake---loch-domhainn)
-        * [Social](#social)
-        * [Political](#social)
-        * [Economy](#economy)
-        * [Religion](#religion)
-        * [Military](#military)
+[Dwarves](#dwarves)
 
+</summary>
+
+- [Deep Lake](#deep-lake---loch-domhainn)
+    * [Social](#social)
+    * [Political](#social)
+    * [Economy](#economy)
+    * [Religion](#religion)
+    * [Military](#military)
 </details>
 
+<details>
+<summary>
+
 - [Elves](#elves)
-    * [Schwarzwald](#schwarzwald---the-black-forest)
-        * [Social](#social-1)
-        * [Political](#social-1)
-        * [Economy](#economy-1)
-        * [Religion](#religion-1)
-        * [Military](#military-1)
-- [Mixed](#mixed)
-    * [Port Hval](#port-hval)
-        * [Social](#social-2)
-        * [Political](#social-2)
-        * [Economy](#economy-2)
-        * [Religion](#religion-2)
-        * [Military](#military-2)
-- [Hobgoblin](#hobgoblin)
-    * [Egchiin-ger](#egchiin-ger)
-        * [Social](#social-3)
-        * [Political](#social-3)
-        * [Economy](#economy-3)
-        * [Religion](#religion-3)
-        * [Military](#military-3)
-- [Humans](#humans)
-    * [Farreach](#farreach-mixed-mostly-human)
-        * [Social](#social-4)
-        * [Political](#social-4)
-        * [Economy](#economy-4)
-        * [Religion](#religion-4)
-        * [Military](#military-4)
+
+</summary>
+
+- [Schwarzwald](#schwarzwald---the-black-forest)
+    * [Social](#social-1)
+    * [Political](#social-1)
+    * [Economy](#economy-1)
+    * [Religion](#religion-1)
+    * [Military](#military-1)
+</details>
+
+<details>
+<summary>
+
+[Mixed](#mixed)
+
+</summary>
+
+- [Port Hval](#port-hval)
+    * [Social](#social-2)
+    * [Political](#social-2)
+    * [Economy](#economy-2)
+    * [Religion](#religion-2)
+    * [Military](#military-2)
+</details>
+
+<details>
+<summary>
+
+[Hobgoblin](#hobgoblin)
+</summary>
+
+- [Egchiin-ger](#egchiin-ger)
+    * [Social](#social-3)
+    * [Political](#social-3)
+    * [Economy](#economy-3)
+    * [Religion](#religion-3)
+    * [Military](#military-3)
+</details>
+
+<details>
+<summary>
+
+[Humans](#humans)
+</summary>
+
+- [Farreach](#farreach-mixed-mostly-human)
+    * [Social](#social-4)
+    * [Political](#social-4)
+    * [Economy](#economy-4)
+    * [Religion](#religion-4)
+    * [Military](#military-4)
+</details>
 
 # Dwarves
 ## Deep lake - Loch Domhainn
