@@ -1,11 +1,14 @@
 ## Table of Contents
-- [Dwarves](#dwarves)
+<details>
+<summary>[Dwarves](#dwarves)</summary>
     * [Deep Lake](#deep-lake---loch-domhainn)
         * [Social](#social)
         * [Political](#social)
         * [Economy](#economy)
         * [Religion](#religion)
         * [Military](#military)
+</details>
+
 - [Elves](#elves)
     * [Schwarzwald](#schwarzwald---the-black-forest)
         * [Social](#social-1)
@@ -152,7 +155,7 @@ With its need for sailors and boats to keep Port Hval functional power goes to t
 
  These “admirals” run the large scale operations that keep the city fed and functioning, building new homes for their men and their families while also building new ships to add to their influence. With the nature of how power is gained in the port, the power base can flux wildly with events like natural storm, pirate and seafolk raids, and even sabotage from rivals can cause an admiral to fall from grace and lose their position of power. As such many Admirals are paranoid of corruption in their ranks and will act swiftly and mercilessly to cull any threats to their power.
 
-### Economic
+### Economy
 Whales are at the center of the economy in lots of ways, meat is butchered and spread out amongst the town’s people for personal and commercial use, blubber is melted down into oil to be used for a variety of purposes from lamp oil to soup, Bones are stripped clean of all flesh and than the largest pieces like the ribs and spinal columns are used to reinforce or even replace lumber while building homes and other buildings. 
 Fishing, crabbing, and clam digging  come next, those that own their own boat can make a semi comfortable life selling seafood and the occasional bouts of pearls. Those who don't own their own ship can often find work on one of the many boats owned by the Admirals or other smaller fleets, though duty on an Admiral’s ships means you are expected to take on extra duties for the sake of the port.
 
