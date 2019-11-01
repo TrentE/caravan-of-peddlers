@@ -1,12 +1,15 @@
 ## Table of Contents
 <details>
-<summary>[Dwarves](#dwarves)</summary>
+<summary>Dwarves</summary>
+
+- [Dwarves](#dwarves)
     * [Deep Lake](#deep-lake---loch-domhainn)
         * [Social](#social)
         * [Political](#social)
         * [Economy](#economy)
         * [Religion](#religion)
         * [Military](#military)
+
 </details>
 
 - [Elves](#elves)
