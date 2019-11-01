@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary><a href="#hobgoblins">Hobgoblins</a></summary>
+<summary><a href="#hobgoblin">Hobgoblins</a></summary>
 
 - [Egchiin-ger](#egchiin-ger)
     * [Social](#social-3)
