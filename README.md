@@ -135,6 +135,7 @@ Information:
 >**Name:** Alberich Dawnhammer  
 **Nickname(s):** "Al"  
 **Race:** Dwarf (Hill)  
+**Age:** 157  
 **Job:** Drover  
 **Proficiencies:** Animal Handling, Athletics  
 **Tool Proficiencies:** Brewer's Supplies, Dulcimers  
@@ -146,6 +147,7 @@ Information:
 >**Name:** Silifrey Evercrown  
 **Nickname(s):** "Sil" or "Frey"  
 **Race:** Human  
+**Age:** 43  
 **Job:** Animal Tender  
 **Proficiencies:** Animal Handling, Medicine  
 **Tool Proficiencies:** Herbalism Kit, Alchemist Supplies  
@@ -157,6 +159,7 @@ Information:
 >**Name:** Gimble Nackle  
 **Nickname(s):** "Gim"  
 **Race:** Gnome (Rock)  
+**Age:** "Old enough to have your respect from such stupid questions"  
 **Job:** Trader  
 **Proficiencies:** Persuasion, Deception  
 **Tool Proficiencies:** Jeweler's Tools, Forgery Kit  
@@ -168,6 +171,7 @@ Information:
 >**Name:** Radovhas  
 **Nickname(s):** "Rad" or "Vhas"  
 **Race:** Centaur  
+**Age:** 52  
 **Job:** Wagon Repair  
 **Proficiencies:** Investigation, Sleight of Hand  
 **Tool Proficiencies:** Carpentery Tools, Tinkerer / Smith's Tools  
@@ -179,6 +183,7 @@ Information:
 >**Name:** Distant Rain Cloud  
 **Nickname(s):** "Rain"  
 **Race:** Tabaxi  
+**Age:** 34  
 **Job:** Forager / Hunter  
 **Proficiencies:** Nature, Survival  
 **Tool Proficiencies:** Cooking Utensils, Leather Working Tools  
