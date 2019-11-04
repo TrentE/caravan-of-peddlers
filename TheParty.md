@@ -3,3 +3,4 @@ Amazing - Korvin, Gnome Eldritch Knight
     Rilla - Halfling, was a slave
     Willham Kim - Human guard, 23
     Fimir Bane - Half Orc
+

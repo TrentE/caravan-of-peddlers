@@ -22,6 +22,7 @@
     * [Rain - Hunter/Forager](#distant-rain-cloud)
 
 ## Finnigan
+![Finnigan Fernkeep](images/FinniganFernkeep.png)
 ### Description
 | Feature    | Description                                                                                                               |
 | :-         | :-                                                                                                                        |
